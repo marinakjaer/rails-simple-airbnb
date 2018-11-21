@@ -1,0 +1,10 @@
+// Import page-specific CSS files here.
+@import "home";
+.card {
+ background-size: cover;
+ color: white;
+ padding: 5px 10px;
+ height: 300px;
+ margin: 20px;
+ border-radius: 20px;
+}
